@@ -3,7 +3,8 @@
 
 ## OTB100
 ![](https://github.com/s90210jacklen/BRNet/blob/main/GIrl2.gif)
-![Label](https://github.com/s90210jacklen/BRNet/blob/main/label.png=250x250)
+
+<img src="https://your-image-url.type" width="150" height="150">
 
 
 ![](https://github.com/s90210jacklen/BRNet/blob/main/Sfood.gif)
