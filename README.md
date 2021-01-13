@@ -2,7 +2,7 @@
 
 
 ## OTB100
-![](https://github.com/s90210jacklen/BRNet/blob/main/GIrl.gif=320x240)
+![](https://github.com/s90210jacklen/BRNet/blob/main/GIrl.gif =320x240)
 ![Label](https://github.com/s90210jacklen/BRNet/blob/main/label.png)
 
 
