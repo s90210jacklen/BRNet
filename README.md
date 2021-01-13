@@ -1,4 +1,4 @@
-# ENHANCING SIAMESE VISUAL TRACKING WITH BACKGROUND RELATIONS
+# Ehancing Siamese Visual Tracking With Background Relations
 
 
 ## OTB100
